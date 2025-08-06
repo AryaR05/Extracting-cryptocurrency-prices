@@ -17,6 +17,4 @@ Make sure you have the following Python libraries installed:
 "BeautifulSoup4" (aliased as "bs")
 "pandas" (aliased as "pd")
 You can install them using pip:
-pip install requests
-pip install beautifulsoup4
-pip install pandas
+pip install requests beautifulsoup4 pandas
